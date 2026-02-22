@@ -1,0 +1,7 @@
+**/.idea
+**/.DS_Store
+CMakeCache.txt
+CMakeFiles/
+Makefile
+cmake_install.cmake
+runner_animation
